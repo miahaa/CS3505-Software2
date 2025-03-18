@@ -1,0 +1,18 @@
+---
+:id: 285761260
+:submitters:
+- :name: TRENTON STRATTON
+  :email: u0809211@utah.edu
+- :name: PHUC HOANG
+  :email: u1503943@utah.edu
+- :name: CHANPHONE VISATHIP
+  :email: u1339618@utah.edu
+- :name: THU HA
+  :email: u1429766@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-11-05 20:52:42.278909000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-11-05 12:52:42.278909000 Z
+:status: processed
+:score: 91.0
