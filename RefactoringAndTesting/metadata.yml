@@ -1,12 +1,12 @@
 ---
-:id: 271049630
+:id: 278343822
 :submitters:
 - :name: THU HA
   :email: u1429766@utah.edu
 :created_at: !ruby/object:ActiveSupport::TimeWithZone
-  utc: 2024-09-25 01:29:50.267618000 Z
+  utc: 2024-10-16 03:25:10.440387000 Z
   zone: !ruby/object:ActiveSupport::TimeZone
     name: America/Los_Angeles
-  time: 2024-09-24 18:29:50.267618000 Z
+  time: 2024-10-15 20:25:10.440387000 Z
 :status: processed
-:score: 91.0
+:score: 89.0
