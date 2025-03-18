@@ -1,0 +1,12 @@
+---
+:id: 266981753
+:submitters:
+- :name: THU HA
+  :email: u1429766@utah.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-09-13 05:18:35.216247000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-09-12 22:18:35.216247000 Z
+:status: processed
+:score: 91.0
